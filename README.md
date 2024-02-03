@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sumaiya.0fficial369@gmail.com**
 
-- ⚡ Fun fact **I like super spicy foods.**
+- ⚡ Fun fact **I like super spicy foods. ♨️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
