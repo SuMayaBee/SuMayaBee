@@ -79,6 +79,5 @@ I go beyond simply calling APIs. I design and build autonomous systems utilizing
 ### 📊 GitHub 3D Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumayabee&show_icons=true&theme=radical&hide_border=true&title_color=0E75B6" height="195" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumayabee&theme=radical&hide_border=true&stroke=0E75B6" height="195" alt="GitHub Streak" />
 </div>
