@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVybTRtYnR3cDkwcWsybDE0MDBseXhiejByMWlxaDcyamV6bHhscSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding Mascot" width="220" />
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/75e50a77-6c94-4d4a-9d57-935b23e9aff4" />
 
   <h1>Hi 👋, I'm Sumaiya Islam</h1>
   <h3>LLM Engineer | Full-Stack Developer | Autonomous Agent Architect</h3>
