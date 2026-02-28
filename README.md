@@ -23,7 +23,7 @@
 
 ### 🚀 About Me
 
-I go beyond simply calling APIs. I design and build autonomous systems utilizing **RAG and Multi-Agent Orchestration architectures**. Whether it is developing real-time voice bots, self-correcting models, or custom agentic code editors, my focus is transforming complex concepts into fully executable workflows. My ultimate goal is to construct applications that do more than just chat—systems capable of reasoning, planning, and autonomously shipping code.
+I design and build autonomous systems utilizing **RAG and Multi-Agent Orchestration architectures**. Whether it is developing real-time voice bots, self-correcting models, or custom agentic code editors, my focus is transforming complex concepts into fully executable workflows. My ultimate goal is to construct applications that do more than just chat—systems capable of reasoning, planning, and autonomously shipping code.
 
 * 💻 **Current Role:** Currently working as a Full Stack Developer at **CEFALO**.
 * 💾 **Past Experience:** Built an AI Website Generator via LangGraph at **AaladinAI**, and programmed real-time AI telephony bots at **Yobo AI**.
